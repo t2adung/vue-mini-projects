@@ -8,7 +8,8 @@
     <nav>
       <RouterLink to="/">Home</RouterLink> | 
       <RouterLink to="/counter">Counter</RouterLink> |
-      <RouterLink to="/todo">Todo</RouterLink>
+      <RouterLink to="/todo">Todo</RouterLink> | 
+      <RouterLink to="/bmi">Bmi</RouterLink>
     </nav>
     <RouterView></RouterView>
   </div> 
