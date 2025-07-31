@@ -6,6 +6,7 @@ import BmiCaculatorApp from '../projects/BmiCaculatorApp.vue';
 import LiveSearchApp from '../projects/LiveSearchApp.vue';
 import CountdownApp from '../projects/CountdownApp.vue';
 import ThemeToogleApp from '../projects/ThemeToogleApp.vue';
+import SimpleFormApp from '../projects/SimpleFormApp.vue';
 
 const routes = [
     { path: '/', redirect: '/home' },
@@ -15,6 +16,7 @@ const routes = [
     { path: '/livesearch', component: LiveSearchApp }, 
     { path: '/countdown', component: CountdownApp }, 
     { path: '/themetoggle', component: ThemeToogleApp }, 
+    { path: '/simpleform', component: SimpleFormApp },
 
 ];
 

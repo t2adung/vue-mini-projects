@@ -12,7 +12,8 @@
       <RouterLink to="/bmi">Bmi</RouterLink> | 
       <RouterLink to="/livesearch">Live Search</RouterLink> | 
       <RouterLink to="/countdown">Countdown</RouterLink> |
-      <RouterLink to="/themetoggle">Theme Toggle</RouterLink>
+      <RouterLink to="/themetoggle">Theme Toggle</RouterLink> | 
+      <RouterLink to="/simpleform">Simple Form</RouterLink>
     </nav>
     <RouterView></RouterView>
   </div> 
