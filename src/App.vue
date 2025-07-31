@@ -13,7 +13,9 @@
       <RouterLink to="/livesearch">Live Search</RouterLink> | 
       <RouterLink to="/countdown">Countdown</RouterLink> |
       <RouterLink to="/themetoggle">Theme Toggle</RouterLink> | 
-      <RouterLink to="/simpleform">Simple Form</RouterLink>
+      <RouterLink to="/simpleform">Simple Form</RouterLink> | 
+      <RouterLink to="/userlist">User List</RouterLink> |
+      <RouterLink to="/advanceUserList">Advance User List</RouterLink> |
     </nav>
     <RouterView></RouterView>
   </div> 
