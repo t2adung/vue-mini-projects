@@ -11,7 +11,8 @@
       <RouterLink to="/todo">Todo</RouterLink> | 
       <RouterLink to="/bmi">Bmi</RouterLink> | 
       <RouterLink to="/livesearch">Live Search</RouterLink> | 
-      <RouterLink to="/countdown">Countdown</RouterLink>
+      <RouterLink to="/countdown">Countdown</RouterLink> |
+      <RouterLink to="/themetoggle">Theme Toggle</RouterLink>
     </nav>
     <RouterView></RouterView>
   </div> 
